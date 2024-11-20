@@ -52,7 +52,8 @@
 ## Preview  
 
 ### Main Interface:  
-![GUI Preview](https://via.placeholder.com/400x300?text=Preview+of+GUI)  
+![main gui](https://github.com/user-attachments/assets/b68935df-9f7b-4729-bffd-9ba3319e3654)
+![preview of changes](https://github.com/user-attachments/assets/4fc54aa9-394b-4d72-9fda-c0c6ca91a635)
 
 ---
 
